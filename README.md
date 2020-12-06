@@ -4,7 +4,7 @@ PLCT实验室2020年开放日活动的演讲资料
 ## 2020年12月4日（周五）
 - 09:00-09:30	设备准备等
 - 90:30-10:00	吴伟：[PLCT Lab Roadmap 2021](20201204-PLCT-Roadmap-2021.pdf)
-- 10:00-10:30	邱吉：V8 for RISC-V：从何处来、往何处去
+- 10:00-10:30	邱吉：[V8 for RISC-V：从何处来、向何处去](V8forRV-PLCTOD2020.pdf)
 - 10:30-11:00	邢明杰：RISC-V向量扩展指令架构及编译器支持
 - 11:00-11:30	史宁宁：[方舟编译器与 Android Runtime](20201204-PLCT-OpenArkCompiler-and-ART.pdf)
 - 11:30-12:00	赵伟峰：九层之台，起于累土 —— TenonStudio2020功能及特性介绍
